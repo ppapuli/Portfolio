@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95774583df971488deb47d97b1bb18, type: 3}
+  m_Name: B2. Fight the Hand
+  m_EditorClassIdentifier: 
+  storyText: "You pull your weight into a hard stomp and crack some of the assailant's
+    bones. That slows it down enough for you to break free and look around.\r\n\r\nAhead
+    there's a mausoleum with what looks like two levers on the outside. You also see
+    a hut in the distance.\r\n\r\n\t1. Run to the mausoleum\r\n\t2. See if you can
+    make it to the hut\r\n\t3. Hide among the tombstones"
+  nextStates:
+  - {fileID: 11400000, guid: 92e2f886866c2704b894b8c340ba9466, type: 2}
+  - {fileID: 11400000, guid: 5b1da3f509afc4344a157279c7a5aec5, type: 2}
+  - {fileID: 11400000, guid: c4bd8304b2339e24ab9f49feecf22804, type: 2}

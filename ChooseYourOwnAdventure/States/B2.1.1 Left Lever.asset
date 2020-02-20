@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95774583df971488deb47d97b1bb18, type: 3}
+  m_Name: B2.1.1 Left Lever
+  m_EditorClassIdentifier: 
+  storyText: "You pull down the rusted handle with some resistance. It locks in place
+    for a few seconds before coming back to its origin seemingly to no effect. \r\n\r\nThe
+    creature is almost upon you at this point.\r\n\r\n\t1. Pull the left lever\r\n\t2.
+    Pull the right lever\r\n\t3. Examine the door"
+  nextStates:
+  - {fileID: 11400000, guid: ca66674a29adb71498b6586ba86dbada, type: 2}
+  - {fileID: 11400000, guid: 837a99f32b9324e4ab32df4e21e0c75c, type: 2}

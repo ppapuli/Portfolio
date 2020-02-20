@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95774583df971488deb47d97b1bb18, type: 3}
+  m_Name: B3. Hide Among the Graves
+  m_EditorClassIdentifier: 
+  storyText: "Terrified of the now fully emerged corpse, you attempt to lose it among
+    the maze that is the graveyard. After making some distance between you and it
+    you duck behind an over-sized cross-shaped stone.\r\n\r\nIt is quiet for a moment
+    as you catch your breath. You notice a pearl necklace lying on the text reading
+    \"Here lie Fabio, he died doing what he loved.\" \r\n\r\n\t1. Take the necklace\r\n\t2.
+    Examine the headstone more"
+  nextStates: []

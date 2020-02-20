@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95774583df971488deb47d97b1bb18, type: 3}
+  m_Name: B2.1. Go to the Mausoleum
+  m_EditorClassIdentifier: 
+  storyText: "You jog ahead, looking back at what appears to be a rotting corpse of
+    a human. As it emerges from the earth, the faint moonlight reveals hungry eyes.
+    It moves slowly towards you with intent. \r\n\r\nYou come upon the entrance of
+    the mausoleum, two levers on either side of you. The door looks like it has a
+    small crack near the opening.\r\n\r\n\t1. Pull the left lever\r\n\t2. Pull the
+    right lever\r\n\t3. Examine the door"
+  nextStates:
+  - {fileID: 11400000, guid: 3ab8e6a3a612af4418c8c433849c4d52, type: 2}
+  - {fileID: 11400000, guid: 837a99f32b9324e4ab32df4e21e0c75c, type: 2}

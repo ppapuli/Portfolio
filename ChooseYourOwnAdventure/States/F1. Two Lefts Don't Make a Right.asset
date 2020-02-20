@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95774583df971488deb47d97b1bb18, type: 3}
+  m_Name: F1. Two Lefts Don't Make a Right
+  m_EditorClassIdentifier: 
+  storyText: "Frantically, you pull the same lever. Frustration got the better of
+    you and you weren't sure what to do. The creature put you between a rock and a
+    hard place and just went to town, eating your guts and your organs before you
+    could even make a sound.\n\n\t1. Try Again."
+  nextStates:
+  - {fileID: 11400000, guid: daafaa0ac7a12ec45be31dd225864037, type: 2}

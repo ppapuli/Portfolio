@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95774583df971488deb47d97b1bb18, type: 3}
+  m_Name: A1. Open The Gate
+  m_EditorClassIdentifier: 
+  storyText: "You walk up and give the door a tug. Shit, its locked with an iron padlock.
+    Must be a key around somewhere.\r\nWhat do you do?\r\n\r\n\t1. Hop the gate.\r\n\r\n\t2.
+    Look for a key."
+  nextStates:
+  - {fileID: 11400000, guid: 0cd227a9ff7e5cd48bc6626388ea3386, type: 2}
+  - {fileID: 11400000, guid: 3e8a254145f728b40bb4f9f05918e27d, type: 2}
