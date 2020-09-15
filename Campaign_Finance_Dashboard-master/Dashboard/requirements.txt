@@ -1,0 +1,21 @@
+# Import required libraries
+dash>=1.14.0
+dash_core_components>=1.10.2
+dash_html_components>=1.0.3
+dash-renderer>=1.6.0
+dash_table>=4.9.0
+datetime>=
+geopy>=2.0.0
+google>=3.0.0
+google-auth>=1.7.1
+google-auth-oauthlib>=0.4.1
+json5>=0.9.5
+jsonschema>=3.2.0
+numpy>=1.16.5
+oauthlib>=3.1.0
+pandas>=1.0.5
+pandas_gbq>=0.13.2
+pathlib2>=2.3.5
+pickleshare>=0.7.5
+plotly>=4.9.0
+pygeoj>=1.0.0
